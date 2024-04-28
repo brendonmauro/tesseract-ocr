@@ -7,7 +7,7 @@ namespace OCR_Demo
     {
         static void Main(string[] args)
         {
-            var testImage = @"E:\ocr.png";
+            var testImage = @"C:\text_logo_17.png";
 
             try
             {
